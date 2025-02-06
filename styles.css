@@ -1,0 +1,90 @@
+/* reference page */
+* {
+    font-family: Lato, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 30px;
+  }
+
+
+
+/* General Styling */
+body {
+    
+    background-color: #d6a4a4;
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 100%;
+    width: 100%;
+}
+
+.locator{
+    width: 100%;
+    max-width: 1024px;
+    margin-bottom: 100px;
+    justify-content: center;
+    font-family: lato sans-serif;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: #d6a4a4;  
+}
+
+.locator h1 {
+    font-size: 2rem;
+    margin-bottom: 5px;
+    color: #6b3e3e;
+}
+
+.locator h3 {
+    font-size: 1.2rem;
+    color: #444;
+    margin-bottom: 15px;
+}
+
+.link p {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #6b3e3e;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px 30px;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a:hover {
+    text-overflow: inherit;
+    color: #333;
+    transition: 0.3s;
+}
