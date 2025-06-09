@@ -244,14 +244,14 @@ SECOND GRID SECTION
   gap: 10px;
   align-items: center;
 }
-/******
 
 
+
+/*
 COPYRIGHT
+*/
 
 
-
-******/
 
 .copyright {
   display: flex;
@@ -270,156 +270,3 @@ COPYRIGHT
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* :root{
-    --bg-color: #F5F8FA;
-    --card-color: #fff;
-}
-
-
-
-
-* {
-   font-family: lato;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    
-  }
-
-
-  select{
-    outline: none;
-  }
-
-  .white-container{
-    display: flex;
-    background-color: var(--bg-color);
-    justify-content: center;
-    justify-items: center;
-    align-items: center;
-    max-width: 80%;
-    min-width: 1440px;
-    min-height: 1170px;
-   top: -139px;
-   left: -101px;
-  }
-
-  .panel{
-    display: flex;
-    justify-content: space-between;
-    background-color: var(--card-color);
-    max-width: 100%;
-    min-height: 100vh;
-    width: 892px;
-    height: 845px;
-    top: 186px;
-     left: 262px;
-     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-     overflow: hidden;
- }
-
- .title{
-  display: grid;
-  width: 580px;
-  height: 80px;
-  margin-top: 40px;
-  left: 262px;
-  border-bottom: solid 2px #F5F7FA;
-  
- }
-
- #text {
-  position: relative;
-  text-align: center;
-  width: 161px;
-  height: 54px;
-  margin: 10px ;
- }
- 
-  h2{
-  font-family: inherit;
-  font-weight: 400;
-  font-size: 30px;
-  line-height: 36px;
-  margin-top: 5px;
-  margin-left: 30px;
-  text-shadow: 1px 1px 2px rgba(29, 44, 60, 1);
- }
-
- form{
-  display: grid;
-  position: absolute;
-  justify-content: left;
-  margin-top: 180px;
-  
- }
-
- .form-group{
-  width: 580px;
-  height: 221px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
- }
- */
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- /* .form-section{
-    width: 580px;
-    height: 80px;
-    top: 227px;
-    left: 262x;
-
- }
-
- .form-section, .plan-section {
-  padding: 20px;
-}
-
-
-.form-section {
-  width: 60%;
-}
-
-
-
-
- */
